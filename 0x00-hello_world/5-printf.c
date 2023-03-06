@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * A program that prints a line using printf
- * return: always 0 (success)
+ * Return: always 0 (success)
  */
 
 int main(void)
