@@ -2,6 +2,7 @@
 
 /**
  * main - Entry point
+ *
  *A program that prints using puts()
  * Return: Always 0 (success)
  */
